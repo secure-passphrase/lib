@@ -1,5 +1,5 @@
 /**
- * PassphraseJS-lib, version 0.1.1, license: MIT
+ * PassphraseJS-lib, version 0.1.1, license: MIT  
  *
  * Converts cryptographic keys from/to passphrases.  Allows for
  * easier memorization and paper storage.  Uses methods similar
