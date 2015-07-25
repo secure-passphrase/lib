@@ -1,4 +1,4 @@
-# lib
+# secure-passphrase / lib
 These are libraries for converting cryptographic keys from/to passphrases and generating secure random passphrases. Allows users to more easily memorize and write down keys.  Uses methods similar to those described in RFC1751.
 
 The default dictionary included is an 8K common short english word extraction of Alan Beale's "2 of 12" public domain dictionary.
