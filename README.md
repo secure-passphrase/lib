@@ -1,11 +1,9 @@
 # lib
-Libraries for converting cryptographic keys from/to passphrases and generating secure random passphrases.
-
-Allows for easier memorization and paper storage.  Uses methods similar to those described in RFC1751.
+These are libraries for converting cryptographic keys from/to passphrases and generating secure random passphrases. Allows users to more easily memorize and write down keys.  Uses methods similar to those described in RFC1751.
 
 The default dictionary included is an 8K common short english word extraction of Alan Beale's "2 of 12" public domain dictionary.
 
-Currently implemented is a javscript library (<code>js/passphrase011.js</code>).
+A javascript library is currently implemented (<code>js/passphrase011.js</code>).
 
 Tools (these run in browser):<br/>
   - <a href="http://secure-passphrase.github.io/tools/bitcoin.html">Convert bitcoin keys from/to passphrases</a><br/>
